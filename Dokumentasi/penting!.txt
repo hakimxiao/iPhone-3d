@@ -1,0 +1,8 @@
+1.  Jika kita ingin merender didalam suspenn dan tepatnya pada bagian fallback 
+    maka wajib kita bungkus dengan html :
+
+    <Html><div>Loading..</div></Html>
+
+
+    Ini karena three js / drei dia tidak mengenali tag Html secara langsung karena mereka adalah 
+    3D render, Oleh karena itu kita wajib menggunakan tag Html dari import {Html} from dreii

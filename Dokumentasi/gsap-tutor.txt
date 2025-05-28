@@ -1,0 +1,5 @@
+GSAP 
+    *   Untuk dapat menggunakan animasi pada gsap kita dapat melakukkan cara berikut ini 
+        1.  install gsap    :   $ npm i gsap @gsap/react
+        2.  import gsap dan useGSAP di page yang ingin implementasi gsap.
+        3.  
